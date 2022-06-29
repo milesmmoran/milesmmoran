@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @milesmmoran
+- 👀 I’m interested in TypeScript.
+- 🌱 I’m currently learning more TypeScript.
